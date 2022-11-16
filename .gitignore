@@ -16,4 +16,5 @@
 .prettierignore
 
 # Avoid adding all .md files, for now
-*.md
+README-info.md
+style-guide.md
